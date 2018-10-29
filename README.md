@@ -50,7 +50,7 @@ RPi
 ![Full mount]()
 
 ### Credit
-Jaerin Lee  
+[Jaerin Lee](https://github.com/ironjr)  
 Lead Electronics and Software Developer  
 SNU Rocket Team Hanaro
 
