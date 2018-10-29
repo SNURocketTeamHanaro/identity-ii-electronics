@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Hanaro)(type KiCad)(uri "E:/Hanaro/전자부 PCB/KiCAD/lib/Hanaro.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name power-supply-rescue)(type Legacy)(uri ${KIPRJMOD}/power-supply-rescue.lib)(options "")(descr ""))
+  (lib (name Hanaro)(type Legacy)(uri "D:/Hanaro/전자부 PCB/KiCAD/lib/hanaro.lib")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Arduino)(type KiCad)(uri "H:/Hanaro/전자부 PCB/KiCAD/lib/Arduino.pretty")(options "")(descr ""))
+  (lib (name Hanaro)(type KiCad)(uri "H:/Hanaro/전자부 PCB/KiCAD/lib/footprint.pretty")(options "")(descr ""))
+)
